@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/d402qn9G/gi-hero-xl.webp" alt="Max Xiong Banner" width="100%">
-</p>
+
 
 # <p align="center">$\color{#00c8ff}{\text{Max Xiong | The Architect of Agentic Evolution}}$</p>
 > <p align="center"><i>"Intelligence is not just about solving the game; it's about rewriting the rules of the reward."</i></p>
