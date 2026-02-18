@@ -1,50 +1,48 @@
+# <p align="center">$\color{#E67E22}{\text{Ikehaya | The Architect of Digital Heritage}}$</p>
+> <p align="center"><i>"The future of storytelling is not just watched; it is owned and evolved through the ledger."</i></p>
 
+**The narrative is decentralized.** Ikehaya operates at the intersection of cultural engineering and blockchain-native media. As the visionary behind **CryptoNinja**, he has architected Japan’s most resilient NFT ecosystem, transforming digital characters into a multi-media powerhouse spanning TV anime and high-fidelity TCGs.
 
-# <p align="center">$\color{#00c8ff}{\text{Max Xiong | The Architect of Agentic Evolution}}$</p>
-> <p align="center"><i>"Intelligence is not just about solving the game; it's about rewriting the rules of the reward."</i></p>
-
-**The reward function is fluid.** Max Xiong operates at the bleeding edge of Reinforcement Learning (RL) and predictive engineering. As an engineer at **Kalshi**, he navigates the regulated geometry of event contracts, while simultaneously pioneering subterranean RL frameworks like **PopStar**—systems designed to evolve beyond static objectives.
-
-Through the **OpenEvolve** engine, he has effectively bridged the gap between raw compute and dynamic adaptability. He doesn't just train agents; he develops the infrastructure for agents to autonomously redefine their own success parameters.
+Through the **Vibe** engine and **CNP (CryptoNinja Partners)**, he has effectively bridged the gap between traditional IP and web3 autonomy. He doesn't just build brands; he develops the infrastructure for communities to autonomously expand their own lore and economic value.
 
 ---
 
-### $\color{#00c8ff}{\text{The Evolution Framework | 진화 프레임워크}}$
+### $\color{#E67E22}{\text{The Cultural Framework | 文化の枠組み}}$
 
-* **$\color{#00c8ff}{\text{Agentic RL}}$**: Lead behind **PopStar**, the agentic RL training system that claimed victory at the WandB hackathon.
-* **$\color{#00c8ff}{\text{Neural Meta-Programming}}$**: Utilizing OpenEvolve to dynamically mutate reward functions during real-time training.
-* **$\color{#00c8ff}{\text{Predictive Engineering}}$**: Architecting the technical substrate for the world's premier regulated prediction market at Kalshi.
-
----
-
-### $\color{#00c8ff}{\text{The Protocol Layer | 프로토콜 레이어}}$
-
-* **PopStar (OpenEvolve)**: Modular agentic training for video game environment mastery. | 비디오 게임 환경 마스터리를 위한 모듈형 에이전트 교육.
-* **Kalshi Infrastructure**: Hardening the systems that price the world's most critical events. | 세계에서 가장 중요한 사건의 가격을 책정하는 시스템 강화.
-* **Signal Synthesis**: Transforming RL training from a linear path into a self-evolving loop. | RL 교육을 선형 경로에서 자체 진화 루프로 변환.
+* **$\color{#E67E22}{\text{NFT Provenance}}$**: Lead visionary behind **CryptoNinja**, the bedrock of the Japanese NFT movement.
+* **$\color{#E67E22}{\text{Cross-Media Synthesis}}$**: Spearheading the transition of on-chain IP into mainstream TV anime and AI-driven production.
+* **$\color{#E67E22}{\text{Educational Infrastructure}}$**: Empowering a global audience of 30,000+ through the **Senseki** newsletter.
 
 ---
 
-### $\color{#00c8ff}{\text{Key Transmissions | 주요 이니셔티브}}$
+### $\color{#E67E22}{\text{The Protocol Layer | プロトコル・レイヤー}}$
 
-* **Kirby-Winning RL Logic**: Implementing agentic behaviors that outperform static models in competitive environments.
-* **Dynamic Reward Mutation**: Research into self-optimizing reward structures for open-world tasks.
-* **Event-Contract Liquidity**: Defining the technical narrative for the next era of quantitative dominance.
+* **CNP (CryptoNinja Partners)**: Leading the evolution of secondary IP ownership and utility.
+* **Vibe.co.jp**: Architecting the corporate substrate for the next generation of creative digital assets.
+* **AI Anime Integration**: Transforming traditional animation workflows into self-optimizing, AI-augmented creative loops.
 
 ---
 
-# <p align="center">$\color{#00c8ff}{\text{Operations | 실행 터미널}}$</p>
+### $\color{#E67E22}{\text{Key Transmissions | 主要な取り組み}}$
 
-* **Engineer**: [Kalshi](https://x.com/kalshi)
-* **Project Alpha**: [PopStar: Agentic RL](https://devpost.com/software/popstar-agentic-rl-training)
-* **Terminal (X)**: [@max_xiong73047](https://x.com/max_xiong73047)
-* **GitHub**: [maxx06](https://github.com/maxx06)
-* **EXPLORER**: [SOL](http://solscan.io/account/5eLNw5UFuAxKsfvDCwJv3DNBCy4jEG6TVBqCPTyaFzsZ)
+* **CryptoNinja Saki**: Implementing decentralized IP that outpaces traditional studio models in speed and engagement.
+* **CNP Trading Card Game**: Research into physical-digital bridge mechanics for long-term collectible value.
+* **Quantitative Community Growth**: Defining the technical and social narrative for the era of "Ninja" dominance.
+
+---
+
+# <p align="center">$\color{#E67E22}{\text{Operations | 実行ターミナル}}$</p>
+
+* **Founder**: [CryptoNinja](https://www.cryptoninja.jp/)
+* **Project Alpha**: [CNP (CryptoNinja Partners)](https://x.com/cnp_ninjadao)
+* **Terminal (X)**: [@IHayato](https://x.com/ihayato)
+* **Intelligence**: [Official Mag / Newsletter](https://mag.ikehaya.com/lp/vNvAqttZ)
+* **Corporate**: [Vibe Inc.](https://vibe.co.jp/)
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>SYSTEM STATUS: EVOLVING REWARD FUNCTIONS...</code>
+  <code>SYSTEM STATUS: MINTING DIGITAL LEGACY...</code>
 </p>
