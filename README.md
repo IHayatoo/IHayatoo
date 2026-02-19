@@ -37,8 +37,8 @@ Previously, I was a core contributor to **Mango**, an open-source DeFi platform,
 
 * **X (Twitter)**: [@stevensarmi_](https://x.com/stevensarmi_)
 * **Website**: [stevensarmi.com](https://www.stevensarmi.com/)
-* **GitHub**: [@maxx06](https://github.com/maxx06)
-* **Chain**: [Solscan Profile](http://solscan.io/account/5eLNw5UFuAxKsfvDCwJv3DNBCy4jEG6TVBqCPTyaFzsZ)
+* **Playground**: [Stevensami.com](https://www.stevensarmi.com/playground)
+* **Chain**: [Solscan Profile](http://solscan.io/account/)
 
 ---
 
