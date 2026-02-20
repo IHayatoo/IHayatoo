@@ -1,4 +1,4 @@
-# <p align="center">$\color{#14F195}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$</p>
+<img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/8bc1c672-4b85-4c86-98d9-f05c087a9b5c" /># <p align="center">$\color{#14F195}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
@@ -43,6 +43,7 @@ Through **Vibe Inc.** and **Ninja DAO**, he leads a movement that empowers creat
 * **Official IP**: [CryptoNinja Saki TV](https://cryptoninja-sakuya.xyz/)
 * **TCG**: [CNP Trading Card Game](https://cnptcg.monolithos.co.jp/)
 * **Twitter (X)**: [@IHayato](https://x.com/ihayato)
+* **SOL-Wallet**; [5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw](https://solscan.io/account/5UgrAWm8HzZAyyi6egiHAc7NYDkWy34jTNcwxRLsjBHw)
 
 ---
 
