@@ -1,4 +1,10 @@
-<img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/8bc1c672-4b85-4c86-98d9-f05c087a9b5c" /># <p align="center">$\color{#14F195}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$</p>
+<p align="center">
+  <img width="680" height="272" alt="image" src="https://github.com/user-attachments/assets/8bc1c672-4b85-4c86-98d9-f05c087a9b5c" />
+</p>
+
+<p align="center">
+  $\color{#14F195}{\text{Ikehaya | Architect of the Decentralized IP Revolution}}$
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
