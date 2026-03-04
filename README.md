@@ -80,5 +80,5 @@ I build things that scale, ship early, and stay open. ⚡
 <p align="center">
   <img src="https://raw.githubusercontent.com/andriish06/andriish06/master/codes.gif" width="100">
   <br>
-  <code>$\color{#14F195}{\text{SYSTEM STATUS: SHIPPING ON SOLANA... 🟢⚡}}$</code>
+ 
 </p>
